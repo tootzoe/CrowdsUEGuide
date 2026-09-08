@@ -17,5 +17,12 @@ https://github.com/user-attachments/assets/5e87d34e-3d73-4cd9-9d7a-f98bb574ac2d
 
 
 
+### Integrated Smart Objects
+
+
+
+
+https://github.com/user-attachments/assets/682d2301-d197-4a8b-a28d-e2dd7b9a9c92
+
 
 
