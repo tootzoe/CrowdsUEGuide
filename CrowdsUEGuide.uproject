@@ -12,18 +12,6 @@
 			]
 		},
 		{
-			"Name": "MassAI",
-			"Enabled": true
-		},
-		{
-			"Name": "MassCrowd",
-			"Enabled": true
-		},
-		{
-			"Name": "MassGameplay",
-			"Enabled": true
-		},
-		{
 			"Name": "ZoneGraph",
 			"Enabled": true
 		},
@@ -32,11 +20,19 @@
 			"Enabled": true
 		},
 		{
-			"Name": "AnimToTexture",
+			"Name": "MassCrowd",
 			"Enabled": true
 		},
 		{
-			"Name": "GameplayStateTree",
+			"Name": "MassAI",
+			"Enabled": true
+		},
+		{
+			"Name": "MassGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayInteractions",
 			"Enabled": true
 		},
 		{
@@ -44,7 +40,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GameplayInteractions",
+			"Name": "SmartObjects",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimToTexture",
 			"Enabled": true
 		}
 	]
